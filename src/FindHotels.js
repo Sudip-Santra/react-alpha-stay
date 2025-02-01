@@ -85,7 +85,7 @@ function FindHotels() {
             <section className="section_container popular_container">
                 <h2 className="section_header" align="center">Popular Hotels</h2>
                 <div className="popular_grid">
-                    <Link to="/FindHotelRooms">
+                    <Link to="/HotelDetails">
                         <div className="popular_card">
                             <img src="https://images.unsplash.com/photo-1562438668-bcf0ca6578f0?q=80&w=2060&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="popular hotel" />
                             <div className="popular_content">
